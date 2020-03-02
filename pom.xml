@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>com.sonar.maven</name>
+  <name>Maven_Job</name>
   <url>http://maven.apache.org</url>
 
   <properties>
